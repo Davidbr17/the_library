@@ -26,6 +26,8 @@ The functionalities are as follows:
 
 -Install composer dependencies "composer install"
 
+-Create application key "php artisan key:generate"
+
 -Create a empty database and configure it in the .env.
 
 -Make migrations "php artisan migrate".
