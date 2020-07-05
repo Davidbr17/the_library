@@ -24,6 +24,8 @@ The functionalities are as follows:
 
 ## Instalation
 
+-Install composer dependencies "composer install"
+
 -Create a empty database and configure it in the .env.
 
 -Make migrations "php artisan migrate".
